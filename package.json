@@ -1,7 +1,13 @@
 {
   "name": "angular-starter",
+  "description": "An Angular Typescript start project.",
   "version": "1.0.0",
   "license": "MIT",
+  "author": "luke geiken",
+  "bugs": {
+    "url": "https://github.com/lukegeiken4/angular-starter/issues"
+  },
+  "homepage": "https://github.com/lukegeiken4/angular-starter#readme",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,6 +15,15 @@
     "test": "ng test",
     "lint": "ng lint"
   },
+  "keywords": [
+    "angular",
+    "typescript",
+    "node",
+    "karma",
+    "frontend",
+    "starter",
+    "project"
+  ],
   "dependencies": {
     "@angular/animations": "^7.1.2",
     "@angular/common": "^7.1.2",
